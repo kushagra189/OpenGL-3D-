@@ -1,8 +1,6 @@
-Graphics Assignment 2
-=====================
-
+Graphics
+=========
 # Kushagra Nagori
-# 20161932
 
 3-D Game (Legend of Zelda) made using openGL3 (C++).
 
